@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <Container version="2">
-  <Name>jd_scripts</Name>
-  <Repository>lxk0301/jd_scripts</Repository>
+  <Name>jd_docker</Name>
+  <Repository>lxk0301/jd_docker</Repository>
   <Registry/>
   <Network>bridge</Network>
   <MyIP/>
   <Shell>sh</Shell>
   <Privileged>false</Privileged>
   <Support/>
-  <Project>https://github.com/lxk0301/jd_scripts</Project>
+  <Project>https://gitee.com/lxk0301/jd_docker</Project>
   <Overview>&#x4EAC;&#x4E1C;&#x8585;&#x7F8A;&#x6BDB;</Overview>
   <Category>Other:</Category>
   <WebUI/>
